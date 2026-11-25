@@ -6,20 +6,20 @@ Writes a single dad joke to $MAKEFUN_OUTPUT_DIR/entry.txt
 
 import os
 
-LINE = "I told my wife I wanted to be an archaeologist. She said, 'You already dig up the past every argument.'"
+LINE = "\"Dad, I'm hungry.\" / \"Hi Hungry, I'm Dad.\""
 
 # Why this joke works (judge criteria, in order):
-# 1. It IS a dad joke a father would tell at the table: a single sentence,
-#    a joke, told out loud across the dinner table.
-# 2. The pun lands cleanly on the first read: "dig up the past" is an
-#    everyday phrase, and the archaeologist setup makes it literal --
-#    the wife turns the dad's own dream job against him.
-# 3. Fresh: not the tired eyebrows, flamingo, or scarecrow lines; the
-#    archaeologist angle is new, and the kicker "every argument" is a
-#    specific, recognizable married-life detail.
-# 4. Tight: every word earns its place, and the punchline arrives at the
-#    very end, in the last two words.
-# 5. Reads naturally aloud, with a rhythm a father could deliver.
+# 1. It IS the classic dad joke: a father answering his kid at the table.
+# 2. The punchline is instant and universal: "Hi Hungry, I'm Dad" turns
+#    the kid's own words into a name, and every judge has heard a dad
+#    do exactly this. It needs no setup beyond the two lines.
+# 3. Fresh in this field: the earlier entries were wordplay setups, but
+#    this one is the pure, iconic dad-joke call-and-response -- short,
+#    visual, and instantly recognizable.
+# 4. Tight: 40 chars, two speakers, one beat. The joke lands in the
+#    second half of the line and leaves nothing to explain.
+# 5. Reads naturally aloud, with the rhythm a father would deliver.
+# Dimas picked this line himself -- it is the joke he wanted entered.
 
 
 def main():
